@@ -1,5 +1,5 @@
 /*
-*		Made for Akkroo Code Task
+*		Made for React first app
 *		Sun 21st February 2016
 *
 *		Made with <3 by Pierre Plantié
@@ -32,5 +32,5 @@ export default class Thanks extends React.Component {
       </div>
     );
   }
-  
+
 }
